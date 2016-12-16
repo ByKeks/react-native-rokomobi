@@ -409,6 +409,7 @@ Reinstall npm and all npm_modules
 ```bash
 sudo npm uninstall npm -g
 rm -rf /usr/local/bin/react-native
+npm install npm@latest -g
 ```
 
 To reinstall all modules in your project-
