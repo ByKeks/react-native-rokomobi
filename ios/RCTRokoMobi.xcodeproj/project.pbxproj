@@ -37,7 +37,6 @@
 		8F9CC30C1E07CC2C00AA7F16 /* NSArray+FlattenArray.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F9CC2C51E07CC2C00AA7F16 /* NSArray+FlattenArray.m */; };
 		8F9CC30D1E07CC2C00AA7F16 /* NSDateFormatter+EasyMappingAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = 8F9CC2C61E07CC2C00AA7F16 /* NSDateFormatter+EasyMappingAdditions.h */; };
 		8F9CC30E1E07CC2C00AA7F16 /* NSDateFormatter+EasyMappingAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F9CC2C71E07CC2C00AA7F16 /* NSDateFormatter+EasyMappingAdditions.m */; };
-		8F9CC30F1E07CC2C00AA7F16 /* ROKOMobi.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8F9CC2C91E07CC2C00AA7F16 /* ROKOMobi.framework */; };
 		8F9CC3101E07CC2C00AA7F16 /* ROKODiscountItem+ROKODiscountItemMapper.h in Headers */ = {isa = PBXBuildFile; fileRef = 8F9CC2CB1E07CC2C00AA7F16 /* ROKODiscountItem+ROKODiscountItemMapper.h */; };
 		8F9CC3111E07CC2C00AA7F16 /* ROKODiscountItem+ROKODiscountItemMapper.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F9CC2CC1E07CC2C00AA7F16 /* ROKODiscountItem+ROKODiscountItemMapper.m */; };
 		8F9CC3121E07CC2C00AA7F16 /* ROKOLink+ROKOLinkMapper.h in Headers */ = {isa = PBXBuildFile; fileRef = 8F9CC2CD1E07CC2C00AA7F16 /* ROKOLink+ROKOLinkMapper.h */; };
@@ -76,6 +75,9 @@
 		8F9CC3331E07CC2C00AA7F16 /* RMReferralManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F9CC2EE1E07CC2C00AA7F16 /* RMReferralManager.m */; };
 		8F9CC3341E07CC2C00AA7F16 /* RMShareManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 8F9CC2EF1E07CC2C00AA7F16 /* RMShareManager.h */; };
 		8F9CC3351E07CC2C00AA7F16 /* RMShareManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F9CC2F01E07CC2C00AA7F16 /* RMShareManager.m */; };
+		8F9CC3DE1E08103B00AA7F16 /* ROKOMobi.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8F9CC3DD1E08103B00AA7F16 /* ROKOMobi.framework */; };
+		8F9CC3E11E08105000AA7F16 /* ROKOMobi.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8F9CC3E01E08105000AA7F16 /* ROKOMobi.framework */; };
+		8F9CC3E31E08106100AA7F16 /* ROKOMobi.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8F9CC3E21E08106100AA7F16 /* ROKOMobi.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -110,7 +112,6 @@
 		8F9CC2C51E07CC2C00AA7F16 /* NSArray+FlattenArray.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSArray+FlattenArray.m"; sourceTree = "<group>"; };
 		8F9CC2C61E07CC2C00AA7F16 /* NSDateFormatter+EasyMappingAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDateFormatter+EasyMappingAdditions.h"; sourceTree = "<group>"; };
 		8F9CC2C71E07CC2C00AA7F16 /* NSDateFormatter+EasyMappingAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDateFormatter+EasyMappingAdditions.m"; sourceTree = "<group>"; };
-		8F9CC2C91E07CC2C00AA7F16 /* ROKOMobi.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = ROKOMobi.framework; sourceTree = "<group>"; };
 		8F9CC2CB1E07CC2C00AA7F16 /* ROKODiscountItem+ROKODiscountItemMapper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ROKODiscountItem+ROKODiscountItemMapper.h"; sourceTree = "<group>"; };
 		8F9CC2CC1E07CC2C00AA7F16 /* ROKODiscountItem+ROKODiscountItemMapper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "ROKODiscountItem+ROKODiscountItemMapper.m"; sourceTree = "<group>"; };
 		8F9CC2CD1E07CC2C00AA7F16 /* ROKOLink+ROKOLinkMapper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ROKOLink+ROKOLinkMapper.h"; sourceTree = "<group>"; };
@@ -149,6 +150,9 @@
 		8F9CC2EE1E07CC2C00AA7F16 /* RMReferralManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RMReferralManager.m; sourceTree = "<group>"; };
 		8F9CC2EF1E07CC2C00AA7F16 /* RMShareManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RMShareManager.h; sourceTree = "<group>"; };
 		8F9CC2F01E07CC2C00AA7F16 /* RMShareManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RMShareManager.m; sourceTree = "<group>"; };
+		8F9CC3DD1E08103B00AA7F16 /* ROKOMobi.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = ROKOMobi.framework; sourceTree = "<group>"; };
+		8F9CC3E01E08105000AA7F16 /* ROKOMobi.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = ROKOMobi.framework; sourceTree = "<group>"; };
+		8F9CC3E21E08106100AA7F16 /* ROKOMobi.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ROKOMobi.framework; path = Framework/Framework/ROKOMobi.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -156,7 +160,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8F9CC30F1E07CC2C00AA7F16 /* ROKOMobi.framework in Frameworks */,
+				8F9CC3E11E08105000AA7F16 /* ROKOMobi.framework in Frameworks */,
+				8F9CC3E31E08106100AA7F16 /* ROKOMobi.framework in Frameworks */,
+				8F9CC3DE1E08103B00AA7F16 /* ROKOMobi.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -184,8 +190,8 @@
 		8F9CC2A81E07CC2C00AA7F16 /* RokoMobiFramework */ = {
 			isa = PBXGroup;
 			children = (
+				8F9CC3E21E08106100AA7F16 /* ROKOMobi.framework */,
 				8F9CC2A91E07CC2C00AA7F16 /* EasyMapping */,
-				8F9CC2C81E07CC2C00AA7F16 /* Frameworks */,
 				8F9CC2CA1E07CC2C00AA7F16 /* Mappers */,
 				8F9CC2DF1E07CC2C00AA7F16 /* NSDictionary_RMParsing.h */,
 				8F9CC2E01E07CC2C00AA7F16 /* NSDictionary_RMParsing.m */,
@@ -246,17 +252,11 @@
 			path = EasyMapping;
 			sourceTree = "<group>";
 		};
-		8F9CC2C81E07CC2C00AA7F16 /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				8F9CC2C91E07CC2C00AA7F16 /* ROKOMobi.framework */,
-			);
-			path = Frameworks;
-			sourceTree = "<group>";
-		};
 		8F9CC2CA1E07CC2C00AA7F16 /* Mappers */ = {
 			isa = PBXGroup;
 			children = (
+				8F9CC3DF1E08105000AA7F16 /* Framework */,
+				8F9CC3DC1E08103B00AA7F16 /* Framework */,
 				8F9CC2CB1E07CC2C00AA7F16 /* ROKODiscountItem+ROKODiscountItemMapper.h */,
 				8F9CC2CC1E07CC2C00AA7F16 /* ROKODiscountItem+ROKODiscountItemMapper.m */,
 				8F9CC2CD1E07CC2C00AA7F16 /* ROKOLink+ROKOLinkMapper.h */,
@@ -280,6 +280,24 @@
 			);
 			path = Mappers;
 			sourceTree = "<group>";
+		};
+		8F9CC3DC1E08103B00AA7F16 /* Framework */ = {
+			isa = PBXGroup;
+			children = (
+				8F9CC3DD1E08103B00AA7F16 /* ROKOMobi.framework */,
+			);
+			name = Framework;
+			path = RokoMobiFramework/Framework/Framework;
+			sourceTree = SOURCE_ROOT;
+		};
+		8F9CC3DF1E08105000AA7F16 /* Framework */ = {
+			isa = PBXGroup;
+			children = (
+				8F9CC3E01E08105000AA7F16 /* ROKOMobi.framework */,
+			);
+			name = Framework;
+			path = RokoMobiFramework/Framework/Framework;
+			sourceTree = SOURCE_ROOT;
 		};
 /* End PBXGroup section */
 
@@ -521,6 +539,7 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/RokoMobiFramework/Frameworks",
+					"$(PROJECT_DIR)/RokoMobiFramework/Framework/Framework",
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(SRCROOT)/../../react-native/React/**",
@@ -542,6 +561,7 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/RokoMobiFramework/Frameworks",
+					"$(PROJECT_DIR)/RokoMobiFramework/Framework/Framework",
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(SRCROOT)/../../react-native/React/**",
