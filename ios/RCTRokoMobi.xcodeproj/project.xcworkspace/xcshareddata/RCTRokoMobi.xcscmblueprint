@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7902F9EABB160DFE3A1CEA24F7B748858070D733",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7902F9EABB160DFE3A1CEA24F7B748858070D733" : 9223372036854775807,
+    "C244C520C7A58834431769C011FA2FAE85169988" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4D4AC71A-F8B9-4704-8A4E-B8369CDA489B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7902F9EABB160DFE3A1CEA24F7B748858070D733" : "repo\/",
+    "C244C520C7A58834431769C011FA2FAE85169988" : "repo\/ios\/RokoMobiFramework\/Framework\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RCTRokoMobi",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ios\/RCTRokoMobi.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ROKOLabs\/react-native-rokomobi.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7902F9EABB160DFE3A1CEA24F7B748858070D733"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ROKOLabs\/ROKO.Mobi.iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C244C520C7A58834431769C011FA2FAE85169988"
+    }
+  ]
+}
