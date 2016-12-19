@@ -143,13 +143,16 @@ const styles = StyleSheet.create({
 
 AppRegistry.registerComponent('AwesomeProject', () => AwesomeProject);
 ```
-+ [ios] Add RokoMobi project to your Project
 
-* Goto npm_modules/react-native-rokomobi/ios/ and Drag RokoMobi.xcodeproj to your Project Tree
-
-![Image of Dragging](https://api.monosnap.com/rpc/file/download?id=08MVqrBxQMGCnfqSdjSQZRnevzOu9f)
-
-** check ** Copy items if needed
+1. In the XCode's "Project navigator", right click on your project's Libraries folder ➜ `Add Files to <...>`
+2. Go to `node_modules` ➜ `react-native-rokomobi` ➜ `ios` ➜ select `RCTRokoMobi.xcodeproj`
+3. Add `libRCTRokoMobi.a` to `Build Phases -> Link Binary With Libraries`
+4. Add ROKOMobi.Framework to `Build Phases -> Link Binary With Libraries`
+(it stores here `../node_modules/react-native-rokomobi/ios/RokoMobiFramework`)
+5. Open `Build settings` ➜ `Framework Search Path` and add
+`$(SRCROOT)/../node_modules/react-native-rokomobi/ios/RokoMobiFramework` - Recursive
+6. Open `Build settings` ➜ `Header Search Path` and add
+`$(SRCROOT)/../node_modules/react-native-rokomobi/ios/RokoMobiFramework` - Recursive
 
 + [ios] Add your credentials to Info.plist
 
